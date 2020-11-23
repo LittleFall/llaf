@@ -2,4 +2,4 @@
 
 My test environment.
 
-LLAF means the reverse of 'fall'.
+LLAF is the reverse of 'fall'.
